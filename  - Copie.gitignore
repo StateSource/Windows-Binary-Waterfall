@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+
+# Build outputs
+build/
+build-cpp/
+dist/
+*.spec.bak
+
+# IDE
+.vscode/
+.idea/
